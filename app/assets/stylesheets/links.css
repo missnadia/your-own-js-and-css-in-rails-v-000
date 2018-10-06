@@ -1,5 +1,6 @@
-.error {
-  color: red;
+.error a {
+    color: red;
+  }
 }
 
 .cool-background {
