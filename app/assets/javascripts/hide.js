@@ -2,4 +2,4 @@ function hideWhenClicked(hide) {
   $(hide.target).hide();
 }
 
-$("hide_this").click(hideWhenClicked)
+$("hide_this").click(hideWhenClicked);
