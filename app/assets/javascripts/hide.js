@@ -1,4 +1,4 @@
-function hideWhenClicked('hide_this') {
+function hideWhenClicked(hide) {
   const el = document.getElementById('hide_this')
-  el.hide();
+  $(this).parent().hide();
 }
