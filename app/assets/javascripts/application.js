@@ -12,4 +12,4 @@
 //
 //= require jquery
 //= require hide
-
+//= require links
