@@ -1,9 +1,9 @@
 .error {
   a {
-    color: red
+    color: red;
   }
 }
 
 .cool-background {
-  grey
+  background-color: grey;
 }
